@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ayo-Olonilua Ayomipe Joseph
-- 👀 I’m a Front-end Developer
-- 🌱 I’m currently learning ...
+- 👀 I’m a Front-end Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 07033747755
 - oloniluaayomipe@gmail.com
